@@ -7,9 +7,13 @@ Pre-Built module that uses custom-translate to defer hoodrich terminology of Tra
 [![Discord](https://discordapp.com/api/guilds/309678110066999297/embed.png)](https://discord.gg/cjpVNcQ)
 
 custom-translate is a simple module for translating certain words or letters in a string with other words or letters you provide. 
-
+#### custom-translate
 npm install -i custom-translate 
 
+#NeilBonics How-To
 clone into neilbonics and run; 
-  $ node neilbonics.js -fuckwitme <pastetext>
-  
+#### NeilBonics
+$ node neilbonics.js -fuckwitme [rawtext]
+
+Your output should be something like; 
+`I am white and involved with heavily illegal items. 

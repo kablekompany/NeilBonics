@@ -11,10 +11,5 @@ custom-translate is a simple module for translating certain words or letters in 
 npm install -i custom-translate 
 
 clone into neilbonics and run; 
-
-node neilbonics.js -fuckwitme <pastetext>
-
-$TrapA
-
-
-F
+  $ node neilbonics.js -fuckwitme <pastetext>
+  

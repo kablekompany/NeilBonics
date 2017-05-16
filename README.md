@@ -1,7 +1,7 @@
-#NeilBonics
+# NeilBonics
 Pre-Built module that uses custom-translate to defer hoodrich terminology of Trap King Neil Beebe to the vernacular of an upstanding citizen. *narcotics not included*
 
-# custom-translate
+#custom-translate
 custom-translate is a simple module for translating certain words or letters in a string with other words or letters you provide. 
 #### custom-translate
 ```js
